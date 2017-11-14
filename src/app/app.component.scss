@@ -1,0 +1,13 @@
+h1 {
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+.line-chart-section {
+  padding: 10px;
+  height: 50%;
+  background-color: #111;
+  dx-sparkline {
+    height: 100%;
+  }
+}

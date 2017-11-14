@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body {
+  background-color: #333;
+  height: 100%;
+}
+
+@import url("~devextreme/dist/css/dx.common.css");
+@import url("~devextreme/dist/css/dx.dark.css");
